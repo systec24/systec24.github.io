@@ -1,1 +1,3 @@
 theme: jekyll-theme-minimal
+url                     : "https://systec24.github.io/"
+baseurl             : "/posts"
